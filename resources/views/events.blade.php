@@ -1,6 +1,21 @@
 <x-app-layout>
 
 </x-app-layout>
+
+<section class="relative py-24 px-4">
+    <div class="z-20 relative text-white container mx-auto">
+        <h1 class="mb-4" style="color: white; font-family: Impact;font-size: 90px"  >SKATING EVENTS?</h1>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <h3 class="leading-normal" style="text-align: right;font-size: 70px; font-family: Impact;color: white">WILL BE POSTED HERE!</h3>
+
+
+    </div>
+    <div class="absolute inset-0 h-auto z-10">
+        <img src="/imgs/event2.jpg" alt="" class="h-full w-full object-fit-cover">
+    </div>
+
+</section>
+
 <section class="text-gray-600 body-font">
     <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-col">
@@ -8,48 +23,29 @@
                 <div class="w-24 h-full bg-indigo-500"></div>
             </div>
             <div class="flex flex-wrap sm:flex-row flex-col py-6 mb-12">
-                <h1 class="sm:w-2/5 text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0">SEE UPCOMING EVENTS HERE</h1>
-                <p class="sm:w-3/5 leading-relaxed text-base sm:pl-10 pl-0">Street art subway tile salvia four dollar toast bitters selfies quinoa yuccie synth meditation iPhone intelligentsia prism tofu. Viral gochujang bitters dreamcatcher.</p>
+                <h1 class="sm:w-2/5 text-gray-900 font-medium title-font text-2xl mb-2 sm:mb-0">EVENTS' SECTION</h1>
+                <p class="sm:w-3/5 leading-relaxed text-base sm:pl-10 pl-0">Events are updated frequently! Including all details and contact informations.</p>
+            </div>
+            <div class="relative items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-24 max-w-7xl">
+                <div class="p-6 border-l-4 border-blue-500 rounded-r-xl bg-blue-50">
+                    <div class="flex">
+                        <div class="flex-shrink-0">
+                            <svg class="w-5 h-5 text-blue-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+                            </svg>
+                        </div>
+                        <div class="ml-3">
+                            <div class="text-sm text-blue-600">
+                                <p>Unfortunately there's no upcoming events at the moment. Stay Tuned Tho! </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
-            <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
-                <div class="rounded-lg h-64 overflow-hidden">
-                    <img alt="content" class="object-cover object-center h-full w-full" src="/imgs/zeituna.jpg">
-                </div>
-                <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Zeituna Bay</h2>
-                <p class="text-base leading-relaxed mt-2">Beirut’s finest leisure destination, located at the Beirut Marina, includes various restaurants, cafes, retail shops and activity centers for you to discover. Accessible to the general public, the upper and lower promenades form an intensely active area, where Lebanese, tourists and Beiruti lovers enjoy a wide selection of menus, as well as spaces for events, cultural festivals, concerts, exhibitions and a variety of other celebrations. There is something for everyone to enjoy at Zaitunay Bay.</p>
 
-            </div>
-            <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
-                <div class="rounded-lg h-64 overflow-hidden">
-                    <img alt="content" class="object-cover object-center h-full w-full" src="/imgs/test.jpg">
-                </div>
-                <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Dbayeh</h2>
-                <p class="text-base leading-relaxed mt-2">Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p>
-                <a class="text-indigo-500 inline-flex items-center mt-3">Learn More
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                        <path d="M5 12h14M12 5l7 7-7 7"></path>
-                    </svg>
-                </a>
-            </div>
-            <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
-                <div class="rounded-lg h-64 overflow-hidden">
-                    <img alt="content" class="object-cover object-center h-full w-full" src="/imgs/skateboard.jpg">
-                </div>
-                <h2 class="text-xl font-medium title-font text-gray-900 mt-5">The 400 Blows</h2>
-                <p class="text-base leading-relaxed mt-2">Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p>
-                <a class="text-indigo-500 inline-flex items-center mt-3">Learn More
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                        <path d="M5 12h14M12 5l7 7-7 7"></path>
-                    </svg>
-                </a>
-            </div>
-        </div>
     </div>
 </section>
-
-
 
 
 

@@ -81,7 +81,7 @@
         <img class="w-full h-full object-cover" src="/imgs/tonyhawk.jpg">
     </div>
     <div class="h-[350px] overflow-hidden md:flex-1 w-full bg-blue-800 flex items-center justify-center">
-        <a class="mt-3 border-b border-b-8 border-dotted border-b-yellow-400 py-2 text-2xl text-white " href="/skaters">Click To See Skaters</a>
+        <a class="mt-3 border-b border-b-8 border-dotted border-b-yellow-400 py-2 text-2xl text-white " href="/skaters">Click To See More Skaters</a>
         <img class="https://images.unsplash.com/photo-1586788224331-947f68671cf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80">
     </div>
 
